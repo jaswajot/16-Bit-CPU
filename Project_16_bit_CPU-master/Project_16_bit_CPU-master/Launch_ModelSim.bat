@@ -1,1 +1,0 @@
-/home/souleymane/intelFPGA_lite/20.1/modelsim_ase/linuxaloem/vsim
